@@ -1,0 +1,19 @@
+Poziom 1: Eksploracja (EDA - Exploratory Data Analysis)
+
+Pytanie: Jakie marki są najpopularniejsze, a jakie najdroższe?
+Wykres: Średnia cena dla Top 10 marek.
+
+Pytanie: Jak przebieg wpływa na cenę?
+Wykres: Scatter plot (oś X: przebieg, oś Y: cena). Zobaczysz, jak cena spada wraz z kilometrami.
+
+Poziom 2: Analiza rynkowa (Business Intelligence)
+
+Pytanie: Które auta najmniej tracą na wartości?
+Analiza: Porównaj spadek ceny dla np. Toyoty i BMW w zależności od rocznika (krzywa utraty wartości).
+
+Pytanie: Gdzie są "perełki"?
+Analiza: Znajdź auta, które są tańsze niż średnia rynkowa dla tego samego modelu, rocznika i przebiegu (np. tańsze o 20%).
+
+Poziom 3: Machine Learning (Cel ostateczny)
+
+Cel: Stworzenie modelu, który przewiduje cenę samochodu na podstawie jego cech.
