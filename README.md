@@ -8,5 +8,5 @@ Dane pochodzą z platformy Kaggle, z serwisu Otomoto. Zbiór pochodzi z kwietnia
 
 ## Jak uruchomić
 1. Sklonuj repozytorium
-2. Pobierz plik CSV z Kaggle ("https://www.kaggle.com/datasets/szymoncyperski/car-sales-offers-from-otomotopl-2023)
-3. Uruchom plik 'otomoto_analysis.py'
+2. Pobierz plik CSV z Kaggle (https://www.kaggle.com/datasets/szymoncyperski/car-sales-offers-from-otomotopl-2023)
+3. Uruchom plik 'otomoto_analysis.ipynb'
