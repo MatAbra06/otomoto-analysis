@@ -2,6 +2,8 @@
 
 An end-to-end Data Science project focused on analyzing used car market trends in Poland and building a predictive model to estimate vehicle valuations based on features like mileage, production year, engine capacity, and brand.
 
+**Live Demo (Hosted on GitHub Pages):** [Launch Live Project](https://otomoto-ai-wycena.streamlit.app/)
+
 ## 🛠️ Project Architecture & Tech Stack
 - **Language:** Python
 - **Data Manipulation:** Pandas, NumPy
